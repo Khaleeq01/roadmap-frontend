@@ -152,7 +152,7 @@ Step by step guide to becoming a modern frontend developer
 - [✔] Rendering Lists & Conditional Content
 - [ ] Styling React Components
 - [✔] Debugging React Apps
-- [ ] Time to Practice: A Complete Practice Project
+- [✔] Time to Practice: A Complete Practice Project
 
 ## WEEK 16
 
