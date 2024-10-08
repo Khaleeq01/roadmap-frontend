@@ -164,8 +164,8 @@ Step by step guide to becoming a modern frontend developer
 - [✔] A Look Behind The Scenes Of React & Optimization Techniques
 - [ ] An Alternative Way Of Building Components: Class-based Components
 - [✔] Sending Http Requests (e.g. Connecting to a Database)
-- [ ] Building Custom React Hooks
-- [ ] Working with Forms & User Input
+- [✔] Building Custom React Hooks
+- [✔] Working with Forms & User Input
 - [ ] Practice Project: Adding Http & Forms To The Food Order App
 
 ## WEEK 17
