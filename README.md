@@ -199,9 +199,9 @@ Step by step guide to becoming a modern frontend developer
 - [✔] Diving into Material UI Components One By One
 - [✔] Form Handling
 - [✔] Header Navigation Bar Components
-- [ ] Advance Components
-- [ ] Advanced Validations With React Hook Form
-- [ ] Data Grid
+- [✔] Advance Components
+- [✔] Advanced Validations With React Hook Form
+- [✔] Data Grid
 - [ ] Advanced Data Grid With Project
 - [ ] Theming and Styling
 - [ ] Advance Styling with styled function
