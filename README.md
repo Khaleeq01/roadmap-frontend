@@ -186,7 +186,9 @@ Step by step guide to becoming a modern frontend developer
 - [ ] Animating React Apps
 - [ ] Replacing Redux with React Hooks
 - [ ] Testing React Apps (Unit Tests)
-- [ ] Optional: React + TypeScript
+- [ ] The Basics
+- [ ] The Basics
+- [✔] Optional: React + TypeScript
 - [ ] Optional: React Hooks Introduction & Summary
 - [ ] Optional: React Summary & Core Feature Walkthrough
 
